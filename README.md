@@ -3,7 +3,6 @@
 An AI-powered Study Assistant built with **Gradio** and **Google's Gemini API**. Ask any question and get an explanation tailored to your preferred learning style — friendly and beginner-focused, or strictly academic.
 
 🔗 **Live Demo:** [https://huggingface.co/spaces/Parkbong7/AI_Study_Assistant]
-![Study Assistant Output](assets/output.png)
 
 ## Features
 
